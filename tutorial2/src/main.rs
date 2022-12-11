@@ -1,7 +1,7 @@
-// fn main() {
-//     // below - print line
-//     println!("Hello, world! This is Rust");
-// }
+fn main() {
+    // below - print line
+    println!("Hello, world! This is Rust");
+}
 
 // https://www.youtube.com/watch?v=xYgfW8cIbMA
 //variables
