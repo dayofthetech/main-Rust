@@ -1,3 +1,8 @@
+// How to create a new rust folder and run code cmp
+// - open cmp and go to the main rust where the folder will be branched off
+// - type cargo new name and it will compile a new folder
+//
+
 fn main() {
     // below - print line
     println!("Hello, world! This is Rust");
