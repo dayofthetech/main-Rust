@@ -1,4 +1,5 @@
 // How to create a new rust folder and run code cmp
+// - go to the folder where the main rs is, then type in cmp rustc main.rs
 // - open cmp and go to the main rust where the folder will be branched off
 // - type cargo new name and it will compile a new folder
 //
