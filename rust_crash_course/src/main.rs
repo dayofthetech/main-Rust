@@ -18,7 +18,8 @@
 //mod pointer_ref;
 //mod structs;
 //mod enums;
-mod cli;
+//mod cli;
+mod hashmaps;
 fn main() {
     //here you are running the run function
     //print::run();
@@ -35,5 +36,6 @@ fn main() {
     //pointer_ref::run();
     //structs::run();
     //enums::run();
-    cli::run();
+    //cli::run();
+    hashmaps::run();
 }
